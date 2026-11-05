@@ -4,8 +4,7 @@
 https://github.com/YVance1/2305.0W1-Final
 
 ## Description
-This project will be simple sudoku game that the user can solve. It is relevant because it is a game
-that many people are familiar with and play often. 
+This project will be simple sudoku game that the user can solve. It is relevant because it is a game that many people are familiar with and play often, and it will give me good experience using basic skills such as creating interfaces and working with equations that are very basic and useful for any type of coding I will do in the future. I also really like sudoku so I can play my game in the future also. 
 
 ## Features
 - Feature 1
